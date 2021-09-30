@@ -16,8 +16,8 @@
 
 ## Deploy :
 
-[![Deploy with Heroku]
-(https://www.herokucdn.com/deploy/button.svg "deploy")](https://heroku.com/deploy?template=https://github.com/fuxionkali/bot "Deploy with Heroku")
+[Deploy with Heroku]
+https://heroku.com/deploy?template=https://github.com/fuxionkali/bot
 
 ## CARA INSTALL DI TERMUX
 ```bash
