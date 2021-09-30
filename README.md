@@ -14,6 +14,11 @@
 </h4>
 </p>
 
+## Deploy :
+
+[![Deploy with Heroku]
+(https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")
+
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
